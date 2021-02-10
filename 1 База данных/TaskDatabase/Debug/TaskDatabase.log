@@ -1,0 +1,13 @@
+﻿  TaskDatabase.cpp
+C:\Users\Evg\Desktop\Никита С++ работы\TaskDatabase\TaskDatabase\TaskDatabase.cpp(34,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Evg\Desktop\Никита С++ работы\TaskDatabase\TaskDatabase\TaskDatabase.cpp(45,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Evg\Desktop\Никита С++ работы\TaskDatabase\TaskDatabase\TaskDatabase.cpp(48,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Evg\Desktop\Никита С++ работы\TaskDatabase\TaskDatabase\TaskDatabase.cpp(75,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Evg\Desktop\Никита С++ работы\TaskDatabase\TaskDatabase\TaskDatabase.cpp(80,19): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Evg\Desktop\Никита С++ работы\TaskDatabase\TaskDatabase\TaskDatabase.cpp(88,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Evg\Desktop\Никита С++ работы\TaskDatabase\TaskDatabase\TaskDatabase.cpp(101,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Evg\Desktop\Никита С++ работы\TaskDatabase\TaskDatabase\TaskDatabase.cpp(109,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Evg\Desktop\Никита С++ работы\TaskDatabase\TaskDatabase\TaskDatabase.cpp(129,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Evg\Desktop\Никита С++ работы\TaskDatabase\TaskDatabase\TaskDatabase.cpp(131,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Evg\Desktop\Никита С++ работы\TaskDatabase\TaskDatabase\TaskDatabase.cpp(145,23): warning C4018: '<': signed/unsigned mismatch
+  TaskDatabase.vcxproj -> C:\Users\Evg\Desktop\Никита С++ работы\TaskDatabase\Debug\TaskDatabase.exe
